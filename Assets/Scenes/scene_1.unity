@@ -686,25 +686,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
---- !u!1 &744999483 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7932570381198911658, guid: b851e5bcfaa52944b9b484499b66389b, type: 3}
-  m_PrefabInstance: {fileID: 7932570380462629521}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &744999490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 744999483}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1eddddcb13f07a47862953bb2975583, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _skeletons: []
-  _nextSceneButton: {fileID: 0}
 --- !u!1 &811322695
 GameObject:
   m_ObjectHideFlags: 0
